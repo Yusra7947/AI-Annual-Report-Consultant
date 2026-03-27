@@ -39,4 +39,4 @@ Run the analysis: Use the script in the src/ folder or play around with the note
  
 I’m currently based in Mumbai and looking for new challenges in FinTech and Data Science. If you’re building something cool in AI or need a hand automating your data workflows, let’s talk!
 
-LinkedIn: [Your Link Here]
+LinkedIn:  linkedin.com/in/yusra-khan79 
